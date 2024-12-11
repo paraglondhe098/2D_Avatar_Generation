@@ -1,6 +1,7 @@
 # 2D Avatar Generator using conditional deep convolutional GANs
 
 This project provides an interactive interface to generate images based on user-defined attributes. Users can tweak various parameters using sliders and instantly visualize the output images.
+Kaggle Notebook link [Implementation with dataset]: https://www.kaggle.com/code/paraglondhe/cdcgans-with-embeddings
 
 
 ## Setup and Installation
